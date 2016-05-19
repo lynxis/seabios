@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # Script that can read from a serial device and show timestamps.
 #
 # Copyright (C) 2009  Kevin O'Connor <kevin@koconnor.net>

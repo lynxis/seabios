@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # This script is useful for taking the output of memdump() and
 # converting it back into binary output.  This can be useful, for
